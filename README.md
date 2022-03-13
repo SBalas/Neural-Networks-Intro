@@ -6,3 +6,5 @@ Harvard's CS109A course was used as reference to model Neural Networks from scra
 - Review of Keras
 - Use Keras on Fashion MNSIT dataset
 - Gradient Descent methods and plots
+- Back propagation from first principles
+- Regularization methods to improve neural networks - L1 and L2 norm penalties, early stopping, data augmentation, and dropout.
